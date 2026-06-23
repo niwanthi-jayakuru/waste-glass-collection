@@ -80,7 +80,7 @@ See [docs/DATABASE.md](docs/DATABASE.md) for full schema.
 |-------|--------|-------------|
 | 1 | Done | Project structure, README, backend scaffold |
 | 2 | Done | Database schema, EF models, seed data |
-| 3 | Pending | .NET API endpoints + Dijkstra routing |
+| 3 | Done | .NET API endpoints + Dijkstra routing |
 | 4 | Pending | Barcode test assets |
 | 5 | Pending | Flutter 3 screens |
 | 6 | Pending | Deploy + APK + submission |

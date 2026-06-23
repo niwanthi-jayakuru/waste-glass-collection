@@ -1,0 +1,26 @@
+# .NET
+bin/
+obj/
+*.user
+*.db
+*.db-shm
+*.db-wal
+.vs/
+
+# Flutter (future)
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+*.iml
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+appsettings.Development.json
+.env
+*.env
